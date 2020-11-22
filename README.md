@@ -9,4 +9,6 @@ https://public.tableau.com/views/Udemy_Tableau_Lecture/Section9_VIztooltip?:lang
 
 
 Check each section in shared workbook to find the contents shown in the below image:
+
+
 ![](https://github.com/kalai2033/Tableau_Visualization/blob/master/Tableau_Course_Contents.png)
