@@ -4,7 +4,7 @@
 I have shared the Tableau public link to access my tableau visualization.
 
 
-https://public.tableau.com/profile/kalaiselvan.panneerselvam#!/vizhome/Visualizations_of_Tableau_2020_A-ZHands-On_Tableau_Training_for_Data_Science/Section9_VIztooltip
+https://public.tableau.com/profile/kalaiselvan.panneerselvam#!/vizhome/My_Hands-on_Training_on_Tableau_Visualizations_from_Kirils_Udemy_Course/Section9_VIztooltip?publish=yes
 
 
 Check each section in shared workbook to find the contents shown in the below image:
